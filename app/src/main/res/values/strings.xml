@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">GST Registration</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">GST Registration App</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+
+    <string name="home_second">Home Second</string>
+
+
+    <string name="button_application_form">Udyam Application</string>
+    <string name="button_gst_registration">Udyam GST Registration</string>
+    <string name="button_benefits">Udyam Benefits</string>
+    <string name="button_convert_u2u">Convert Udyog to Udyam</string>
+
+
+    <string name="menu_dashboard">Dashboard</string>
+    <string name="menu_application_form">Udyam Application</string>
+    <string name="menu_convert_u2u">Convert Udyog to Udyam</string>
+    <string name="menu_gst_registration">Udyam GST Registration</string>
+    <string name="menu_benefits">Udyam Benefits</string>
+    <string name="menu_support">Udyam Support</string>
+    <string name="menu_process">Process</string>
+    <string name="menu_print">Print Certificate</string>
+    <string name="menu_about_us">About Us</string>
+<!--    GST Registration Strings-->
+    <string name="gstRegistration">GST Registration</string>
+    <string name="gstRegistrationCharges">GST Registration Changes</string>
+    <string name="gstRegistrationReturnFiling">GST Return Filing</string>
+    <string name="support">Support</string>
+    <string name="gstRateFinder">GST Rate Finder</string>
+    <string name="gstVerification">GST Verification</string>
+    <string name="gstSearch">GST Search</string>
+    <string name="gstCalculator">GST Calculator</string>
+    <string name="gstSupport">GST Support</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="banner_ad_unit_id">ca-app-pub-5780474963190938/8505258248</string>
+    <!--            <string name="banner_ad_unit_id">ca-app-pub-3940256099942544/6300978111</string>-->
+</resources>

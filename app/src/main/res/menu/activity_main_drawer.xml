@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_dashboard"
+            android:icon="@drawable/dashboard"
+            android:title="@string/menu_dashboard" />
+        <item
+            android:id="@+id/gstRegistration"
+            android:icon="@drawable/application_form_icon"
+            android:title="@string/gstRegistration" />
+        <item
+            android:id="@+id/gstRegistrationCharges"
+            android:icon="@drawable/ic_gst_registration_change_sidemenu"
+            android:title="@string/gstRegistrationCharges" />
+        <item
+            android:id="@+id/gstReturnFiling"
+            android:icon="@drawable/ic_gst_return_sidemenu"
+            android:title="@string/gstRegistrationReturnFiling" />
+        <item
+            android:id="@+id/otherServices"
+            android:icon="@drawable/customer_support"
+            android:title="Other Services"/>
+        <item
+            android:id="@+id/support"
+            android:icon="@drawable/support"
+            android:title="@string/support" />
+        <item
+            android:id="@+id/gstRateFinder"
+            android:icon="@drawable/ic_gst_rate_finder"
+            android:title="@string/gstRateFinder" />
+        <item
+            android:id="@+id/gstVerification"
+            android:icon="@drawable/verifyfoodlics"
+            android:title="@string/gstVerification" />
+        <item
+            android:id="@+id/gstSearch"
+            android:icon="@drawable/ic_search"
+            android:title="@string/gstSearch" />
+        <item
+            android:id="@+id/gstCalculator"
+            android:icon="@drawable/ic_gst_calculator"
+            android:title="@string/gstCalculator" />
+    </group>
+</menu>
